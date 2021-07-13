@@ -1,0 +1,13 @@
+{
+    "name": "nasa-mala-aplikacija",
+    "version": "1.0.0",
+    "description": "Node.js on Docker tutorial",
+    "author": "batman <batman@arkham.com>",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
